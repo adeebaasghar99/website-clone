@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+   box-sizing: border-box;
+   font-family: arial;
+}
+.navbar{
+  display: flex;
+  height: 70px;
+  background-color: #25471a;
+  color: white;
+
+}
+.logo{
+    align-items: center;
+}
+img{
+  height: 60px;
+  align-items: center;
+  width: 110px;
+  display: flex;
+}
+.icon-1{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.nav-logo{
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.search-bar{
+  display:flex;
+  align-items: center;
+  gap: 10px;
+}
+input{
+  width: 500px;
+  height: 40px;
+}
+.box5{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.line{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background-color: #1f4f4c;
+  color: white;
+  height: 30px;
+}
+.hero-section{
+  background-size: cover;
+  height: 250px;
+  width: 1250px;
+}
+.shop-section{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+ background-color: yellow ;
+box-sizing: border-box;
+}
+.box{
+  border: 2px solid black;
+  width: 20%;
+  height:300px;
+}
+.div-img{
+  display: flex;
+  flex-wrap: wrap;
+} 
+.img-2{
+ display: flex;
+ flex-wrap: wrap;
+}
+.img-4{
+  display: flex;
+ flex-wrap: wrap;
+}
+.img-5{
+  display: flex;
+  flex-wrap: wrap;
+}
+.img-3{
+  display: flex;
+ flex-wrap: wrap;
+}
+.img-4{
+  display: flex;
+  flex-wrap: wrap;
+}
+
